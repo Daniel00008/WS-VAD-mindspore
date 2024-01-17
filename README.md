@@ -31,8 +31,8 @@ python test_10crop.py
 
 **Result on UCF**
 
-< img src="https://github.com/YukiFan/vad-weakly/blob/main/ucf.png" width="50%">
+< img src="https://github.com/Daniel00008/WS-VAD-mindspore/blob/main/ucf.png" width="50%">
 
 **Result on XD-violence**
 
-< img src="https://github.com/YukiFan/vad-weakly/blob/main/xd.png" width="50%">
+< img src="https://github.com/Daniel00008/WS-VAD-mindspore/blob/main/xd.png" width="50%">
